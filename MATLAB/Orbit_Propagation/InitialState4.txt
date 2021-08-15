@@ -1,0 +1,12 @@
+2000/01/01-00:00:00.000
++1357304.587
+-940766.572
+-2328478.974
++13871.697
++2048.220
++5069.522
+satellite's effective area for solar radiation: 110.5
+satellite's effective area for drag: 62.5
+satellite's mass: 8000.0
+Cr: 1.0
+Cd: 4.2
